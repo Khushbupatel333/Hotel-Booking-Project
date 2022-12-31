@@ -53,5 +53,37 @@ Data Cleaning and Feature engineering:-
 
 1)Removing duplicate values:- All duplicate values were dropped.
 
-2)Handling null and missing values:-
+2)Handling null and missing values:- I found some null and missing values in data in column is_cancelled,is_repeated_guest and previous_cancellation.I replace thàt null values with average of that column
+
+3)Converting and updating format and datatype of columns:-I change datatype of some columns.
+
+Mainly used libraries are matplotlib and seaborn and the following graphs and plots are:-
+
+- Bar plot
+- Histogram
+- scatter plot
+- Line chart
+- Heatmap
+- pair plot
+- Box plot
+
+Conclusion:-
+
+- City hotel seems more prefered among customers
+
+- Most Number of booking made in May month from Paris compared to India and USA
+
+- Most preferred meal type is FB from group type customer.
+
+- Most Number of booking is in year 2015 and 2017.
+
+- Most number of booking changes placed in year 2019 that is 7 from group type of customer.
+
+- May and Feb month have most number of booking.
+
+- Most preferred room type is AC as compared to Normal room type.
+
+- Maximum number of children arrival in in City hotel from Country Paris
+
+
 
