@@ -1,14 +1,14 @@
-Hotel Booking Data Analysis
+# Hotel Booking Data Analysis
 
-Objective:-
+# Objective:-
 
 We are provided with a Hotel booking dataset.Our main objective is to perform EDA on the given dataset and draw useful conclusion about general trends in hotel booking.
 
-Dataset:-
+# Dataset:-
 
 We are given a hotel booking dataset.This dataset contain booking information of City hotel and resort hotel.We have to perform some manipulation and functions to get some insight from the Dataset.
 
-Variable Description:-
+# Variable Description:-
 
 There are list of variables as shown as below:-
 
@@ -49,7 +49,7 @@ There are list of variables as shown as below:-
 18) Number_of_booking:Number of bookings
 
 
-Data Cleaning and Feature engineering:-
+# Data Cleaning and Feature engineering:-
 
 1)Removing duplicate values:- All duplicate values were dropped.
 
@@ -67,7 +67,7 @@ Mainly used libraries are matplotlib and seaborn and the following graphs and pl
 - pair plot
 - Box plot
 
-Conclusion:-
+# Conclusion:-
 
 - City hotel seems more prefered among customers
 
