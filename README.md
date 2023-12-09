@@ -69,21 +69,23 @@ Mainly used libraries are matplotlib and seaborn and the following graphs and pl
 
 # Conclusion:-
 
-- City hotel seems more prefered among customers
+- A city hotel is has more bookings than resort.Offer packeges and promote bookings for resort hotel.
 
-- Most Number of booking made in May month from Paris compared to India and USA
+- BB is most requested food .The hotel should maintain the food quality while offering discount on other foods to promotr other
 
-- Most preferred meal type is FB from group type customer.
+- Most of bookings are made from online plateform .
 
-- Most Number of booking is in year 2015 and 2017.
+- Very few customer visited again.So hotel can increase repeate bookings by offering the right repeat booking insentive.
 
-- Most number of booking changes placed in year 2019 that is 7 from group type of customer.
+- Because room A and D are most popular with customer the hotel should maintain the quality.
 
-- May and Feb month have most number of booking.
+- Customer do not want to pay pre-deposit for a reservation.Hotels should promote advance deposit because not only does an advance.
 
-- Most preferred room type is AC as compared to Normal room type.
+  
 
-- Maximum number of children arrival in in City hotel from Country Paris
+
+
+
 
 
 
